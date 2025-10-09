@@ -11,9 +11,12 @@ This repository contains my solutions to LeetCode problems, organized by topic a
 ## Topics
 - [Arrays](#arrays)
 - [Hashing](#hashing)
+- Sets
+- Strings
 - Two Pointers
 - Sliding Window
-- Dynamic Programming
+- Stack
+- Que
 - Graphs
 
 ## Arrays
