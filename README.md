@@ -19,7 +19,7 @@ This repository contains my solutions to LeetCode problems, organized by topic a
 ## Arrays
 | Problem | Difficulty | Pattern | Code |
 |--------|------------|---------|------|
-| Max Consecutive Ones | Easy | Sliding Window | [code](./arrays/max_consecutive_ones.py) |
+| Max Consecutive Ones | Easy | Sliding Window | [code](./Arrays/max_consecutive_ones.py) |
 
 
 Each solution includes:
