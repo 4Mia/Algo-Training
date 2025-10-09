@@ -12,7 +12,7 @@ Output: [0,1]
 Explanation: Because nums[0] + nums[1] == 9, return [0, 1].
 
 Approach:
-- Use a hash map (`numMap`) to store numbers and their indices.
+- Use hash map (`numMap`) to store numbers and their indices.
 - For each element, compute its complement (`target - num`).
 - If the complement exists in the map, return both indices.
 - Otherwise, add the current number and index to the map.
