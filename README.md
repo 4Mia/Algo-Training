@@ -10,7 +10,7 @@ This repository contains my solutions to LeetCode problems, organized by topic a
 
 ## Topics
 - [Arrays](#arrays)
- & Hashing
+- Hashing
 - Two Pointers
 - Sliding Window
 - Dynamic Programming
@@ -19,7 +19,7 @@ This repository contains my solutions to LeetCode problems, organized by topic a
 ## Arrays
 | Problem | Difficulty | Pattern | Code |
 |--------|------------|---------|------|
-| Max Consecutive Ones (485) | Easy | Sliding Window | [code](./arrays/485_max_consecutive_ones.py) |
+| Max Consecutive Ones | Easy | Sliding Window | [code](./arrays/max_consecutive_ones.py) |
 
 
 Each solution includes:
