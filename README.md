@@ -1,7 +1,7 @@
 # Algo-Training
 Algorithm and data structure practice solving LeetCode and interview-style problems by pattern and difficulty
 
-This repository contains my solutions to LeetCode problems, organized by topic and difficulty. Each solution includes code, time and space complexity, and problem (if avl) link
+This repository contains my solutions to LeetCode problems, organized by topic and difficulty. Each solution includes code, time (as input ^, how much longer to complete?) and space (as input ^, how much more memory does it use?) complexity, and problem (if avl) link
 
 ## Progress
 - ✅ 2 Easy
