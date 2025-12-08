@@ -17,5 +17,23 @@ n == nums.length
 1 <= k <= n <= 105
 -10^4 <= nums[i] <= 10^4
 
-"""
+Notes:
+- Pattern: Sliding Window
+- Approach: 
+- Time: O(n) as we iterate over the given nums array once
+- Space: O(1) - constant extra space used
 
+"""
+class Solution:
+    def findMaxAverage(self, nums: List[int], k: int) -> float:
+        curr = 0
+        for i in range(k):
+            curr += nums[i]
+            
+        ans = curr
+        
+        for i in range(k, len(nums)):
+            curr += nums[i] - nums[i - k]
+            ans = max(ans, curr)
+            
+        return ans / k
